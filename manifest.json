@@ -1,0 +1,14 @@
+{
+  "name": "Temple Dash",
+  "short_name": "TempleDash",
+  "description": "Endless 3D runner — dodge obstacles, outrun the monster",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#ff8c00",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
